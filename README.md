@@ -1,6 +1,4 @@
-# Python Script for Simulating Event Production and Publishing to Azure Event Hub
 
-This document describes a Python script that```markdown
 # Python Script for Simulating Event Production and Publishing to Azure Event Hub
 
 This document describes a Python script designed simulates the production of events from 10 devices and publishes them to an Azure Event Hub.
